@@ -1,0 +1,18 @@
+{
+  "propietario": "David",
+  "admins": [
+    "Chimi",
+    "Lucí",
+    "Vale"
+  ],
+  "avisos": [
+    "Reunion de administradores"
+  ],
+  "historial": [
+    {
+      "usuario": "David",
+      "accion": "Creó aviso: Reunion de administradores",
+      "fecha": "2026-11-02T17:46:15.920Z"
+    }
+  ]
+}
